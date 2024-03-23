@@ -4,6 +4,15 @@ Welcome to the GUJCET Previous Year Papers and Solutions repository! This reposi
 
 # ગુજસેટ પાછલા વર્ષના પેપર્સ અને સોલ્યુશન્સ
 
+# Warning:
+
+If there is a check mark on any answer in the paper, it does not necessarily mean that it is correct. Please ensure you verify your answers.
+
+# ચેતવણી:
+
+જો પેપરમાં કોઈ પ્રશ્નની ઉત્તર પર ટિક ચિહ્ન હોય, તો તે માન્ય નહીં કે તે સાચું છે. કૃપા કરીને તમારા જવાબોની પરખ કરો.
+ 
+
 ## Contents
 
 - **Papers**: Previous year question papers for GUJCET from 2006 to 2023.
