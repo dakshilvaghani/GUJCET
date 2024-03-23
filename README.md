@@ -1,8 +1,8 @@
-# GUJCET Previous Year Papers and Solutions
+## GUJCET Previous Year Papers and Solutions
 
 Welcome to the GUJCET Previous Year Papers and Solutions repository! This repository contains GUJCET question papers from the years 2006 to 2023 along with detailed solutions. Whether you're a student preparing for the GUJCET exam or an educator looking for resources, you'll find valuable materials here to aid your preparation.
 
-# ગુજસેટ પાછલા વર્ષના પેપર્સ અને સોલ્યુશન્સ
+## ગુજસેટ પાછલા વર્ષના પેપર્સ અને સોલ્યુશન્સ
 
 # Warning:
 
